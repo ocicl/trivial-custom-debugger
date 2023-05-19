@@ -1,0 +1,9 @@
+* trivial-custom-debugger
+
+Allows arbitrary functions to become the standard Lisp debugger.
+
+|---------+---------------------------------------------------------|
+| source  | git:https://github.com/phoe/trivial-custom-debugger.git |
+| commit  | a560594                                                 |
+| systems | trivial-custom-debugger                                 |
+|---------+---------------------------------------------------------|
